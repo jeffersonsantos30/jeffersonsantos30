@@ -1,4 +1,4 @@
-## Olá Recruters, sou o Jefferson Santos e fique avontade para conhcer meus projetos e aprendizados!
+## Olá Recruters, sou o Jefferson Santos e fique a vontade para conhecer meus projetos e aprendizados!
 <div align="center">
   <a href="https://github.com/jeffersonsantos30">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jeffersonsantos30&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
