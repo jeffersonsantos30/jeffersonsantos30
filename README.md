@@ -14,7 +14,7 @@
   <img align="center" alt="jeff-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="jeff-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
       <img align="center" alt="jeff-angular" height="30" width="40" src="https://icongr.am/devicon/angularjs-original.svg?size=67&color=currentColor">
-   <img align="center" alt="jeff-dotnet" height="30" width="40" src="https://icongr.am/devicon/dot-net-original-wordmark.svg?size=67&color=currentColor">
+   <img align="center" alt="jeff-dotnet" height="30" width="40" src="https://icongr.am/devicon/dot-net-original.svg?size=67&color=currentColor">
      <img align="center" alt="jeff-node.js" height="30" width="40" src="https://icongr.am/devicon/nodejs-original.svg?size=67&color=currentColor">
     </div>
   
